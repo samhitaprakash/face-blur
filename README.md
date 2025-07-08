@@ -1,8 +1,8 @@
-# Face Blur Tool 😷📸
+# Face Blur Tool
 
 A real-time face anonymization app built with **OpenCV** and **Streamlit**, allowing users to blur or pixelate detected faces from webcam input with a toggle switch.
 
-## 🎯 Project Overview
+##  Project Overview
 
 This tool offers a simple interface to protect identity during live video streaming by applying real-time face anonymization. It uses **OpenCV** for face detection and **BytesIO** for efficient in-memory image handling.
 
@@ -10,7 +10,7 @@ The app runs on **Streamlit**, making it easy to deploy and interact with, even 
 
 ---
 
-## 🔍 Features
+##  Features
 
 - Real-time face detection from webcam feed
 - Toggle between **blur** and **pixelation** modes
@@ -20,7 +20,7 @@ The app runs on **Streamlit**, making it easy to deploy and interact with, even 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python
 - OpenCV
@@ -31,7 +31,7 @@ The app runs on **Streamlit**, making it easy to deploy and interact with, even 
 
 ---
 
-## 🚀 How to Run Locally
+##  How to Run Locally
 
 1. Clone this repo:
    ```bash
@@ -48,18 +48,17 @@ Project Structure
 ├── models/                 # Haarcascade or detection model file
 ├── requirements.txt        # List of required Python packages
 ├── README.md               # This file
-📸 Sample Use Case
+Sample Use Case
 Blur faces in video calls or recordings
 
 Create anonymized content for privacy-conscious users
 
 Educational tool for face detection and real-time processing
 
-🌐 Deployment
+Deployment
 Deployed on Streamlit Cloud
 🔗 Live Demo
-
-✨ Author
+ Author
 Built by Samhita Prakash
 
 
